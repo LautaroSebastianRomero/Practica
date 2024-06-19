@@ -17,3 +17,5 @@ git add "nombre". añade los cambios
 git commit -m "nombre". agrega un nombre
 git branch -M main(no es un paso del guardado). arma una rama
 git push -u origin main. guarda los cambios-termina de subir
+
+LU EVA Y LAUTY EL TRIDENTE GALACTICO
